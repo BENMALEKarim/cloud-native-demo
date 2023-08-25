@@ -1,7 +1,7 @@
 apiVersion: network.karim-sandbox.io/v1alpha1
 kind: Network
 metadata:
-  name: xplane-network
+  name: infra-eks-network
   namespace: infra
 spec:
   resourceConfig:
